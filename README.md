@@ -1,1 +1,1 @@
-# FinMate-AI
+# WealthWise
